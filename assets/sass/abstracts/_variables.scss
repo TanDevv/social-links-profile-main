@@ -1,0 +1,39 @@
+/* Custom Properties */
+:root {
+  /* Primary Colors, one for fixed color and the other to change opacity dynamically */
+
+  --clr-primary-green: hsl(75, 94%, 57%);
+  --clr-primary-white: hsl(0, 0%, 100%);
+
+  /* Secondary Colors, one for fixed color and the other to change opacity dynamically */
+  --clr-neutral-grey-700: hsl(0, 0%, 20%);
+  --clr-neutral-grey-800: hsl(0, 0%, 12%);
+  --clr-neutral-grey-900: hsl(0, 0%, 8%);
+
+  /* RGB colors to change opacity dynamically */
+  --clr-primary-green-rgb: 197, 248, 42;
+  --clr-primary-white-rgb: 255, 255, 255;
+  --clr-neutral-grey-700-rgb: 51, 51, 51;
+  --clr-neutral-grey-800-rgb: 31, 31, 31;
+  --clr-neutral-grey-900-rgb: 20, 20, 20;
+
+  /* Typography */
+
+  /* Font Family */
+  --ff-default: "Inter", sans-serif;
+
+  /* Font Weight */
+  --fw-regular: 400;
+  --fw-semi-bold: 600;
+  --fw-bold: 700;
+
+  /* Font Sizes */
+  --fs-300: .875rem;
+  --fs-400: 1.125rem;
+  --fs-500: 1.25rem;
+  --fs-600: 1.5rem;
+  --fs-700: 1.75rem;
+  --fs-800: 2rem;
+  --fs-850: 3.5rem;
+  --fs-900: 4rem;
+}
