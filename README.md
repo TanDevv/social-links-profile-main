@@ -7,9 +7,9 @@
     <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ"><strong>Social Links Profile</strong></a>
     <br />
     <br />
-    <a href="live site here">View Demo</a>
+    <a href="https://spontaneous-florentine-6d120e.netlify.app/">View Demo</a>
     ·
-    <a href="solution link here" target="_blank">Leave a comment</a> 
+    <a href="https://www.frontendmentor.io/solutions/social-links-profile-scss-qoKQXm091i" target="_blank">Leave a comment</a> 
   </p>
 </div>
 
@@ -39,8 +39,8 @@ This is a solution to the [Social Links Profile](https://www.frontendmentor.io/c
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [solution link here](solution link here)
-- Live Site URL: [live site link here](live site link here)
+- Solution URL: [Social Links Profile](https://www.frontendmentor.io/solutions/social-links-profile-scss-qoKQXm091i)
+- Live Site URL: [Social Links Profile](https://spontaneous-florentine-6d120e.netlify.app/)
 
 <br>
 
