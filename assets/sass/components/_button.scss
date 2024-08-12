@@ -13,4 +13,14 @@
   color: var(--clr-primary-white);
   font-weight: var(--fw-semi-bold);
   padding: 0.6rem;
+  cursor: pointer;
+
+  &:hover {
+    background-color: rgba(var(--clr-neutral-grey-700-rgb), 0.5);
+  }
+
+  &:active {
+    background-color: var(--clr-primary-green);
+    color: var(--clr-primary-black);
+  }
 }
