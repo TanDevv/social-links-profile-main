@@ -1,0 +1,22 @@
+/* General Styling */
+body {
+  color: var(--clr-primary-white);
+  background-color: var(--clr-primary-black);
+  font-family: var(--ff-default);
+  font-size: var(--fs-300);
+  text-align: center;
+  display: grid;
+  place-content: center;
+}
+
+/* Visually Hidden for sr-only */
+.visually-hidden {
+  clip: rect(0 0 0 0) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  position: absolute !important;
+  white-space: nowrap !important;
+  width: 1px !important;
+}
+

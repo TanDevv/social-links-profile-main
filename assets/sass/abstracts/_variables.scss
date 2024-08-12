@@ -1,9 +1,14 @@
 /* Custom Properties */
 :root {
+  /* Base properties */
+  --gap: 1rem;
+  --radius: 7px;
+
   /* Primary Colors, one for fixed color and the other to change opacity dynamically */
 
   --clr-primary-green: hsl(75, 94%, 57%);
   --clr-primary-white: hsl(0, 0%, 100%);
+  --clr-primary-black: hsl(0, 0%, 8%);
 
   /* Secondary Colors, one for fixed color and the other to change opacity dynamically */
   --clr-neutral-grey-700: hsl(0, 0%, 20%);
@@ -28,7 +33,7 @@
   --fw-bold: 700;
 
   /* Font Sizes */
-  --fs-300: .875rem;
+  --fs-300: 0.875rem;
   --fs-400: 1.125rem;
   --fs-500: 1.25rem;
   --fs-600: 1.5rem;

@@ -1,0 +1,16 @@
+/* Buttons Container Styling */
+.card-button-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+  padding: 0.2rem;
+}
+
+.card-button {
+  background-color: var(--clr-neutral-grey-700);
+  border: none;
+  border-radius: var(--radius);
+  color: var(--clr-primary-white);
+  font-weight: var(--fw-semi-bold);
+  padding: 0.6rem;
+}

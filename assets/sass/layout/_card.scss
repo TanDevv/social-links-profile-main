@@ -1,0 +1,35 @@
+/* Card Styling */
+.card_container {
+  background-color: var(--clr-neutral-grey-800);
+  border-radius: 15px;
+  margin-bottom: var(--gap);
+  padding: var(--gap);
+}
+
+
+
+.card-img {
+  border-radius: 50%;
+  max-width: 7rem;
+  margin: auto;
+  padding: var(--gap);
+}
+
+.card-title-group {
+  h2 {
+    font-weight: var(--fw-semi-bold);
+    letter-spacing: 0.5px;
+  }
+
+  span {
+    color: var(--clr-primary-green);
+    font-size: 0.75rem;
+    font-weight: var(--fw-semi-bold);
+    letter-spacing: 0.5px;
+  }
+}
+
+.card-contents-paragraph {
+  font-size: 0.8rem;
+  margin: var(--gap);
+}
