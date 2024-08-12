@@ -39,8 +39,8 @@ This is a solution to the [Social Links Profile](https://www.frontendmentor.io/c
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Social Links Profile](https://www.frontendmentor.io/solutions/social-links-profile-scss-qoKQXm091i)
-- Live Site URL: [Social Links Profile](https://spontaneous-florentine-6d120e.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-scss-qoKQXm091i](https://www.frontendmentor.io/solutions/social-links-profile-scss-qoKQXm091i)
+- Live Site URL: [https://spontaneous-florentine-6d120e.netlify.app/](https://spontaneous-florentine-6d120e.netlify.app/)
 
 <br>
 
